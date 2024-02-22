@@ -1,0 +1,25 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  background-color: #b3add9;
+  color: #274073;
+}
+
+img {
+  width: 10%;
+}
+
+#headingOne,
+#headingTwo,
+#headingThree {
+  background-color: #4b61a6;
+}
+
+#collapseOne,
+#collapseTwo,
+#collapseThree {
+  background-color: #f2f2f2;
+}
+
+.btn {
+  color: #f2f2f2;
+}
